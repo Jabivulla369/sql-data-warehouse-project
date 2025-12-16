@@ -103,9 +103,6 @@ Develop **SQL-based analytical queries** to generate insights related to:
 
 These insights help stakeholders track key business metrics and support strategic, data-driven decisions.
 
-📌 For detailed requirements, refer to:
-[docs/requirements.md](docs/requirements.md)
-
 ---
 
 ## 📂 Repository Structure
