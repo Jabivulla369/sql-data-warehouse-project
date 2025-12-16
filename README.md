@@ -9,7 +9,7 @@ This repository showcases an end-to-end **data warehousing and analytics solutio
 
 This project is designed using the **Medallion Architecture**, consisting of **Bronze**, **Silver**, and **Gold** layers to ensure scalable, reliable, and analytics-ready data.
 
-![Data Architecture]("C:\Users\shaik ismail\OneDrive\Desktop\Data Analyst\SQL Ultimate Course\sql-data-warehouse-project-main\sql-data-warehouse-project-main\docs\Data Architectures.png")
+![Data Architecture]("C:\Users\shaik ismail\OneDrive\Desktop\Data Analyst\SQL Ultimate Course\sql-data-warehouse-project-main\sql-data-warehouse-project-main\docs\data_architecture.pdf")
 
 ### Architecture Layers
 
