@@ -9,8 +9,8 @@ This repository showcases an end-to-end **data warehousing and analytics solutio
 
 This project is designed using the **Medallion Architecture**, consisting of **Bronze**, **Silver**, and **Gold** layers to ensure scalable, reliable, and analytics-ready data.
 
-![Data Architecture]("<img width="1231" height="737" alt="Data Arch" src="https://github.com/user-attachments/assets/a2e38c5e-10da-498b-9be8-68957f710f8f" />
-")
+![Data Architecture]<img width="1231" height="737" alt="Data Arch" src="https://github.com/user-attachments/assets/a2e38c5e-10da-498b-9be8-68957f710f8f" />
+
 
 ### Architecture Layers
 
